@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Bilal GOKDAG",
+    "occupation": "Web Developer at PLOUD",
+    "description": "I learn every time, play guitar, my family and my loved ones.",
+    "image": "profile.jpg",
+    "bio": "Hi there! I am Bilal! In addition to completing adepartment that I am interested in ,I am also trying to improve myself for my profession.I think that I have the equipment to use the knowledge I have gained in my education life and wherever I need it afterwards.I know the processes in which there are jobs and projects in professional life.I trust myself for these processes and I always develop myself for the future.",
+    "contactmessage": "Contact me for more information!",
+    "email": "bilal.gkdg@gmail.com",
+    "phone": "+90 1234567899",
+    "address": {
+      "street": "Akasya AVM",
+      "city": "Istanbul",
+      "state": "Kadikoy",
+      "zip": "34212"
+    },
+    "website": "https://github.com/gkdgbilal",
+    "resumedownload": "https://drive.google.com/file/d/1_s6anqARj6_qojv6pGmyZJm5aSDeDWNC/view?usp=sharing",
+    "social": [{
+        "name": "twitter",
+        "url": "https://twitter.com/gkdg_bilal",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/gkdg.bilal",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/bilalgokdag/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/gkdg.bilal/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/gkdgbilal",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [{
+      "school": "University of Istanbul - Turkey",
+      "degree": "Bachelor's Degree, Computer Engineering",
+      "graduated": "July 2020",
+      "description": "Graduated with First Class Honours"
+    }],
+    "work": [{
+      "company": "PLOUD",
+      "title": "Web Development",
+      "years": "May 2021 - Present",
+      "description": "I develop web and mobile applications and complete tasks with my team. I am also improving myself."
+    }],
+    "skills": [{
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "VueJs",
+        "level": "85%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Go",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [{
+        "title": "Spotify Clone (React JS)",
+        "category": "",
+        "image": "spotify.png",
+        "url": "https://github.com/gkdgbilal/Spotify-Clone"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix.jpg",
+        "url": "https://github.com/gkdgbilal/netflix-clone-firebase"
+      },
+      {
+        "title": "Twitter Clone (Vue JS)",
+        "category": "",
+        "image": "twitter.png",
+        "url": "https://github.com/gkdgbilal/twitter-clone-vueJS"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [{
+        "text": "Bilal is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Bilal has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}

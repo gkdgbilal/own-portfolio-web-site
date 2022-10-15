@@ -48,13 +48,13 @@
     "education": [{
       "school": "University of Istanbul - Turkey",
       "degree": "Bachelor's Degree, Computer Engineering",
-      "graduated": "July 2020",
+      "graduated": "July 2021",
       "description": "Graduated with First Class Honours"
     }],
     "work": [{
-      "company": "PLOUD",
-      "title": "Web Development",
-      "years": "May 2021 - Present",
+      "company": "KAFEIN TECHNOLOGY",
+      "title": "React JS Developer",
+      "years": "June 2022 - Present",
       "description": "I develop web and mobile applications and complete tasks with my team. I am also improving myself."
     }],
     "skills": [{
